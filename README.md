@@ -108,7 +108,11 @@ linkedin-clone/
 ```
 
 ---
+## NOTE
 
+change the frontend and backend url accordingly in files (I use my render develop url)
+
+---
 ## Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
