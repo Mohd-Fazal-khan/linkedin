@@ -40,7 +40,7 @@ A full-stack LinkedIn clone built with React (frontend) and Node.js/Express (bac
 1. **Clone the repository**
 
    ```powershell
-   git clone https://github.com/Mohd-Fazal-khan/linkedin
+   git clone https://github.com/Mohd-Fazal-khan/linkedin.git
    cd linkedin-clone
    ```
 
