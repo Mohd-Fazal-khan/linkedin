@@ -61,7 +61,7 @@ A full-stack LinkedIn clone built with React (frontend) and Node.js/Express (bac
 
    - Create a `.env` file in the `backend` folder with your MongoDB URI and other secrets:
      ```env
-     MONGO_URI=your_mongodb_uri
+     MONGO_URL=your_mongodb_url
      CLOUDINARY_API_KEY=your_cloudinary_key
      CLOUDINARY_API_SECRET=your_cloudinary_secret
      CLOUDINARY_CLOUD_NAME=your_cloud_name
