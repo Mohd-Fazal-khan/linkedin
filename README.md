@@ -4,7 +4,7 @@ A full-stack LinkedIn clone built with React (frontend) and Node.js/Express (bac
 
 ## Live Demo
 
-[Live URL](https://your-live-demo-url.com)
+[Live URL]https://linkedin-frontend-s01q.onrender.com/
 
 ---
 
